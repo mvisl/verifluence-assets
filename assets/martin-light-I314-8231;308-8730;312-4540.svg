@@ -1,0 +1,12 @@
+<svg width="939" height="1001" viewBox="0 0 939 1001" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Martin Light" opacity="0.2" filter="url(#filter0_f_0_1102)">
+<path d="M638.066 570.386C592.943 674.72 421.401 716.017 374.877 695.896C341.465 681.445 288.533 617.637 302.263 548.513C307.651 521.387 362.066 528.435 374.783 499.031C374.663 247.479 491.759 297.95 538.283 318.071C573.749 333.41 582.838 395.686 565.166 470.643C559.656 494.014 648.791 545.588 638.066 570.386Z" fill="#FFE062"/>
+</g>
+<defs>
+<filter id="filter0_f_0_1102" x="0" y="0" width="939" height="1000.87" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_0_1102"/>
+</filter>
+</defs>
+</svg>

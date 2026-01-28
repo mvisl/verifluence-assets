@@ -1,0 +1,932 @@
+{
+  "fileKey": "Izgzufe5syG3KcDR7fdPVX",
+  "rootNodeId": "314:8186",
+  "generatedAt": "2026-01-28T21:39:47.590656Z",
+  "count": 66,
+  "assets": [
+    {
+      "id": "3531:31387",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-3531-31387.svg",
+      "path": "assets/bg-3531-31387.svg",
+      "size": {
+        "width": 1450,
+        "height": 1078
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "3531:31387",
+      "status": "ready"
+    },
+    {
+      "id": "3531:31399",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-3531-31399.svg",
+      "path": "assets/bg-3531-31399.svg",
+      "size": {
+        "width": 1450,
+        "height": 1078
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "3531:31399",
+      "status": "ready"
+    },
+    {
+      "id": "3531:31422",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-3531-31422.svg",
+      "path": "assets/bg-3531-31422.svg",
+      "size": {
+        "width": 1450,
+        "height": 1078
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "3531:31422",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6695;236:6687",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8221;236-6695;236-6687.svg",
+      "path": "assets/bg-I314-8221;236-6695;236-6687.svg",
+      "size": {
+        "width": 116,
+        "height": 116
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8221;236:6695;236:6687",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6706;236:6687",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8221;236-6706;236-6687.svg",
+      "path": "assets/bg-I314-8221;236-6706;236-6687.svg",
+      "size": {
+        "width": 116,
+        "height": 116
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8221;236:6706;236:6687",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6729;236:6687",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8221;236-6729;236-6687.svg",
+      "path": "assets/bg-I314-8221;236-6729;236-6687.svg",
+      "size": {
+        "width": 116,
+        "height": 116
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8221;236:6729;236:6687",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6741;236:6687",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8221;236-6741;236-6687.svg",
+      "path": "assets/bg-I314-8221;236-6741;236-6687.svg",
+      "size": {
+        "width": 116,
+        "height": 116
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8221;236:6741;236:6687",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6753;236:6687",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8221;236-6753;236-6687.svg",
+      "path": "assets/bg-I314-8221;236-6753;236-6687.svg",
+      "size": {
+        "width": 116,
+        "height": 116
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8221;236:6753;236:6687",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8228;236:7604;236:7597",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8228;236-7604;236-7597.svg",
+      "path": "assets/bg-I314-8228;236-7604;236-7597.svg",
+      "size": {
+        "width": 140,
+        "height": 140
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8228;236:7604;236:7597",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8229;236:7604;236:7597",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8229;236-7604;236-7597.svg",
+      "path": "assets/bg-I314-8229;236-7604;236-7597.svg",
+      "size": {
+        "width": 140,
+        "height": 140
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8229;236:7604;236:7597",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8230;236:7604;236:7597",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8230;236-7604;236-7597.svg",
+      "path": "assets/bg-I314-8230;236-7604;236-7597.svg",
+      "size": {
+        "width": 140,
+        "height": 140
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8230;236:7604;236:7597",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6634",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6634.svg",
+      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6634.svg",
+      "size": {
+        "width": 105,
+        "height": 105
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6634",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6634",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6634.svg",
+      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6634.svg",
+      "size": {
+        "width": 105,
+        "height": 105
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6634",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6634",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6634.svg",
+      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6634.svg",
+      "size": {
+        "width": 105,
+        "height": 105
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6634",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6634",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6634.svg",
+      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6634.svg",
+      "size": {
+        "width": 105,
+        "height": 105
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6634",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8765",
+      "name": "BG",
+      "type": "svg",
+      "filename": "bg-I314-8231;308-8765.svg",
+      "path": "assets/bg-I314-8231;308-8765.svg",
+      "size": {
+        "width": 1440,
+        "height": 800
+      },
+      "usage": "Background layer",
+      "sourceNodeId": "I314:8231;308:8765",
+      "status": "ready"
+    },
+    {
+      "id": "314:8197",
+      "name": "Ellipse 2",
+      "type": "svg",
+      "filename": "ellipse-2-314-8197.svg",
+      "path": "assets/ellipse-2-314-8197.svg",
+      "size": {
+        "width": 184,
+        "height": 244
+      },
+      "usage": "Shape",
+      "sourceNodeId": "314:8197",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7498",
+      "name": "Ellipse 2",
+      "type": "svg",
+      "filename": "ellipse-2-I314-8205;236-7498.svg",
+      "path": "assets/ellipse-2-I314-8205;236-7498.svg",
+      "size": {
+        "width": 494,
+        "height": 544
+      },
+      "usage": "Shape",
+      "sourceNodeId": "I314:8205;236:7498",
+      "status": "ready"
+    },
+    {
+      "id": "314:8207",
+      "name": "image 175",
+      "type": "png",
+      "filename": "image-175-314-8207.png",
+      "path": "assets/image-175-314-8207.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8207",
+      "status": "ready"
+    },
+    {
+      "id": "314:8210",
+      "name": "image 176",
+      "type": "png",
+      "filename": "image-176-314-8210.png",
+      "path": "assets/image-176-314-8210.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8210",
+      "status": "ready"
+    },
+    {
+      "id": "314:8212",
+      "name": "image 177",
+      "type": "png",
+      "filename": "image-177-314-8212.png",
+      "path": "assets/image-177-314-8212.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8212",
+      "status": "ready"
+    },
+    {
+      "id": "314:8214",
+      "name": "image 178",
+      "type": "png",
+      "filename": "image-178-314-8214.png",
+      "path": "assets/image-178-314-8214.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8214",
+      "status": "ready"
+    },
+    {
+      "id": "314:8209",
+      "name": "image 179",
+      "type": "png",
+      "filename": "image-179-314-8209.png",
+      "path": "assets/image-179-314-8209.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8209",
+      "status": "ready"
+    },
+    {
+      "id": "314:8211",
+      "name": "image 180",
+      "type": "png",
+      "filename": "image-180-314-8211.png",
+      "path": "assets/image-180-314-8211.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8211",
+      "status": "ready"
+    },
+    {
+      "id": "314:8213",
+      "name": "image 181",
+      "type": "png",
+      "filename": "image-181-314-8213.png",
+      "path": "assets/image-181-314-8213.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8213",
+      "status": "ready"
+    },
+    {
+      "id": "314:8215",
+      "name": "image 182",
+      "type": "png",
+      "filename": "image-182-314-8215.png",
+      "path": "assets/image-182-314-8215.png",
+      "size": {
+        "width": 288,
+        "height": 135
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8215",
+      "status": "ready"
+    },
+    {
+      "id": "314:8216",
+      "name": "image 183",
+      "type": "png",
+      "filename": "image-183-314-8216.png",
+      "path": "assets/image-183-314-8216.png",
+      "size": {
+        "width": 383,
+        "height": 111
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8216",
+      "status": "ready"
+    },
+    {
+      "id": "314:8208",
+      "name": "image 184",
+      "type": "png",
+      "filename": "image-184-314-8208.png",
+      "path": "assets/image-184-314-8208.png",
+      "size": {
+        "width": 383,
+        "height": 111
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "314:8208",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8228;236:7604;236:7644",
+      "name": "image 185",
+      "type": "png",
+      "filename": "image-185-I314-8228;236-7604;236-7644.png",
+      "path": "assets/image-185-I314-8228;236-7604;236-7644.png",
+      "size": {
+        "width": 67,
+        "height": 69
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8228;236:7604;236:7644",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8229;236:7604;236:7644",
+      "name": "image 185",
+      "type": "png",
+      "filename": "image-185-I314-8229;236-7604;236-7644.png",
+      "path": "assets/image-185-I314-8229;236-7604;236-7644.png",
+      "size": {
+        "width": 67,
+        "height": 69
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8229;236:7604;236:7644",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8230;236:7604;236:7644",
+      "name": "image 185",
+      "type": "png",
+      "filename": "image-185-I314-8230;236-7604;236-7644.png",
+      "path": "assets/image-185-I314-8230;236-7604;236-7644.png",
+      "size": {
+        "width": 67,
+        "height": 69
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8230;236:7604;236:7644",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8222;246:7073",
+      "name": "image 195",
+      "type": "png",
+      "filename": "image-195-I314-8222;246-7073.png",
+      "path": "assets/image-195-I314-8222;246-7073.png",
+      "size": {
+        "width": 484,
+        "height": 277
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8222;246:7073",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;308:8603;312:4557;345:6702",
+      "name": "image 197",
+      "type": "png",
+      "filename": "image-197-I314-8231;308-8730;308-8603;312-4557;345-6702.png",
+      "path": "assets/image-197-I314-8231;308-8730;308-8603;312-4557;345-6702.png",
+      "size": {
+        "width": 256,
+        "height": 351
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;345:6702",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7497",
+      "name": "image 48",
+      "type": "png",
+      "filename": "image-48-I314-8205;236-7497.png",
+      "path": "assets/image-48-I314-8205;236-7497.png",
+      "size": {
+        "width": 331,
+        "height": 245
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8205;236:7497",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7495",
+      "name": "image 49",
+      "type": "png",
+      "filename": "image-49-I314-8205;236-7495.png",
+      "path": "assets/image-49-I314-8205;236-7495.png",
+      "size": {
+        "width": 648,
+        "height": 656
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8205;236:7495",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7496",
+      "name": "image 50",
+      "type": "png",
+      "filename": "image-50-I314-8205;236-7496.png",
+      "path": "assets/image-50-I314-8205;236-7496.png",
+      "size": {
+        "width": 594,
+        "height": 608
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8205;236:7496",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8194;94:3036",
+      "name": "image 62",
+      "type": "png",
+      "filename": "image-62-I314-8194;94-3036.png",
+      "path": "assets/image-62-I314-8194;94-3036.png",
+      "size": {
+        "width": 309,
+        "height": 333
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8194;94:3036",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8194;94:3046",
+      "name": "image 63",
+      "type": "png",
+      "filename": "image-63-I314-8194;94-3046.png",
+      "path": "assets/image-63-I314-8194;94-3046.png",
+      "size": {
+        "width": 309,
+        "height": 333
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8194;94:3046",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6578",
+      "name": "image 65",
+      "type": "png",
+      "filename": "image-65-I314-8221;236-6578.png",
+      "path": "assets/image-65-I314-8221;236-6578.png",
+      "size": {
+        "width": 331,
+        "height": 340
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8221;236:6578",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6641",
+      "name": "image 78",
+      "type": "png",
+      "filename": "image-78-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6641.png",
+      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6641.png",
+      "size": {
+        "width": 54,
+        "height": 54
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6641",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6641",
+      "name": "image 78",
+      "type": "png",
+      "filename": "image-78-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6641.png",
+      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6641.png",
+      "size": {
+        "width": 54,
+        "height": 54
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6641",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6641",
+      "name": "image 78",
+      "type": "png",
+      "filename": "image-78-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6641.png",
+      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6641.png",
+      "size": {
+        "width": 54,
+        "height": 54
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6641",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6641",
+      "name": "image 78",
+      "type": "png",
+      "filename": "image-78-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6641.png",
+      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6641.png",
+      "size": {
+        "width": 54,
+        "height": 54
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6641",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8232;314:5597",
+      "name": "image 78",
+      "type": "png",
+      "filename": "image-78-I314-8232;314-5597.png",
+      "path": "assets/image-78-I314-8232;314-5597.png",
+      "size": {
+        "width": 48,
+        "height": 48
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8232;314:5597",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8232;314:5598",
+      "name": "image 79",
+      "type": "png",
+      "filename": "image-79-I314-8232;314-5598.png",
+      "path": "assets/image-79-I314-8232;314-5598.png",
+      "size": {
+        "width": 48,
+        "height": 48
+      },
+      "usage": "Raster illustration",
+      "sourceNodeId": "I314:8232;314:5598",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8233;4:342;3:44",
+      "name": "Logo V3",
+      "type": "svg",
+      "filename": "logo-v3-I314-8233;4-342;3-44.svg",
+      "path": "assets/logo-v3-I314-8233;4-342;3-44.svg",
+      "size": {
+        "width": 44,
+        "height": 52
+      },
+      "usage": "Logo mark",
+      "sourceNodeId": "I314:8233;4:342;3:44",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;312:4540",
+      "name": "Martin Light",
+      "type": "svg",
+      "filename": "martin-light-I314-8231;308-8730;312-4540.svg",
+      "path": "assets/martin-light-I314-8231;308-8730;312-4540.svg",
+      "size": {
+        "width": 455,
+        "height": 504
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8231;308:8730;312:4540",
+      "status": "ready"
+    },
+    {
+      "id": "314:8204",
+      "name": "Page 3",
+      "type": "svg",
+      "filename": "page-3-314-8204.svg",
+      "path": "assets/page-3-314-8204.svg",
+      "size": {
+        "width": 1440,
+        "height": 800
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "314:8204",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6601",
+      "name": "Rectangle 38",
+      "type": "svg",
+      "filename": "rectangle-38-I314-8221;236-6601.svg",
+      "path": "assets/rectangle-38-I314-8221;236-6601.svg",
+      "size": {
+        "width": 648,
+        "height": 770
+      },
+      "usage": "Shape",
+      "sourceNodeId": "I314:8221;236:6601",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8222;246:6962",
+      "name": "Rectangle 38",
+      "type": "svg",
+      "filename": "rectangle-38-I314-8222;246-6962.svg",
+      "path": "assets/rectangle-38-I314-8222;246-6962.svg",
+      "size": {
+        "width": 648,
+        "height": 770
+      },
+      "usage": "Shape",
+      "sourceNodeId": "I314:8222;246:6962",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:7479",
+      "name": "Shapes",
+      "type": "svg",
+      "filename": "shapes-I314-8221;236-7479.svg",
+      "path": "assets/shapes-I314-8221;236-7479.svg",
+      "size": {
+        "width": 691,
+        "height": 690
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8221;236:7479",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8222;246:6975",
+      "name": "Shapes",
+      "type": "svg",
+      "filename": "shapes-I314-8222;246-6975.svg",
+      "path": "assets/shapes-I314-8222;246-6975.svg",
+      "size": {
+        "width": 691,
+        "height": 690
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8222;246:6975",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;308:8603;312:4557;306:8341",
+      "name": "Vector 15",
+      "type": "svg",
+      "filename": "vector-15-I314-8231;308-8730;308-8603;312-4557;306-8341.svg",
+      "path": "assets/vector-15-I314-8231;308-8730;308-8603;312-4557;306-8341.svg",
+      "size": {
+        "width": 346,
+        "height": 313
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;306:8341",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;308:8603;312:4557;306:8342",
+      "name": "Vector 16",
+      "type": "svg",
+      "filename": "vector-16-I314-8231;308-8730;308-8603;312-4557;306-8342.svg",
+      "path": "assets/vector-16-I314-8231;308-8730;308-8603;312-4557;306-8342.svg",
+      "size": {
+        "width": 360,
+        "height": 362
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;306:8342",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6603",
+      "name": "Vector 17",
+      "type": "svg",
+      "filename": "vector-17-I314-8221;236-6603.svg",
+      "path": "assets/vector-17-I314-8221;236-6603.svg",
+      "size": {
+        "width": 356,
+        "height": 359
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8221;236:6603",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6606",
+      "name": "Vector 17",
+      "type": "svg",
+      "filename": "vector-17-I314-8221;236-6606.svg",
+      "path": "assets/vector-17-I314-8221;236-6606.svg",
+      "size": {
+        "width": 356,
+        "height": 359
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8221;236:6606",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8222;246:6964",
+      "name": "Vector 17",
+      "type": "svg",
+      "filename": "vector-17-I314-8222;246-6964.svg",
+      "path": "assets/vector-17-I314-8222;246-6964.svg",
+      "size": {
+        "width": 356,
+        "height": 359
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8222;246:6964",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8222;246:6967",
+      "name": "Vector 17",
+      "type": "svg",
+      "filename": "vector-17-I314-8222;246-6967.svg",
+      "path": "assets/vector-17-I314-8222;246-6967.svg",
+      "size": {
+        "width": 356,
+        "height": 359
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8222;246:6967",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6604",
+      "name": "Vector 18",
+      "type": "svg",
+      "filename": "vector-18-I314-8221;236-6604.svg",
+      "path": "assets/vector-18-I314-8221;236-6604.svg",
+      "size": {
+        "width": 479,
+        "height": 478
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8221;236:6604",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8221;236:6607",
+      "name": "Vector 18",
+      "type": "svg",
+      "filename": "vector-18-I314-8221;236-6607.svg",
+      "path": "assets/vector-18-I314-8221;236-6607.svg",
+      "size": {
+        "width": 479,
+        "height": 478
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8221;236:6607",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8222;246:6965",
+      "name": "Vector 18",
+      "type": "svg",
+      "filename": "vector-18-I314-8222;246-6965.svg",
+      "path": "assets/vector-18-I314-8222;246-6965.svg",
+      "size": {
+        "width": 479,
+        "height": 478
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8222;246:6965",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8222;246:6968",
+      "name": "Vector 18",
+      "type": "svg",
+      "filename": "vector-18-I314-8222;246-6968.svg",
+      "path": "assets/vector-18-I314-8222;246-6968.svg",
+      "size": {
+        "width": 479,
+        "height": 478
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8222;246:6968",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8194;94:3045",
+      "name": "Vector 42",
+      "type": "svg",
+      "filename": "vector-42-I314-8194;94-3045.svg",
+      "path": "assets/vector-42-I314-8194;94-3045.svg",
+      "size": {
+        "width": 142,
+        "height": 163
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8194;94:3045",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8194;94:3044",
+      "name": "Vector 43",
+      "type": "svg",
+      "filename": "vector-43-I314-8194;94-3044.svg",
+      "path": "assets/vector-43-I314-8194;94-3044.svg",
+      "size": {
+        "width": 312,
+        "height": 348
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "I314:8194;94:3044",
+      "status": "ready"
+    },
+    {
+      "id": "314:8195",
+      "name": "Vector 44",
+      "type": "svg",
+      "filename": "vector-44-314-8195.svg",
+      "path": "assets/vector-44-314-8195.svg",
+      "size": {
+        "width": 118,
+        "height": 97
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "314:8195",
+      "status": "ready"
+    },
+    {
+      "id": "314:8196",
+      "name": "Vector 45",
+      "type": "svg",
+      "filename": "vector-45-314-8196.svg",
+      "path": "assets/vector-45-314-8196.svg",
+      "size": {
+        "width": 105,
+        "height": 106
+      },
+      "usage": "Vector asset",
+      "sourceNodeId": "314:8196",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Verifluence Assets</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Verifluence / Landing</p>
+          <h1>Assets registry</h1>
+          <p class="subtitle">
+            Automatically exported from Figma. Vector assets stay as SVG, image fills exported as PNG.
+          </p>
+        </div>
+        <div class="stats" id="stats"></div>
+      </header>
+
+      <section class="controls">
+        <input id="search" type="search" placeholder="Search by name, type, usage..." />
+        <div class="filters">
+          <button data-filter="all" class="active">All</button>
+          <button data-filter="svg">SVG</button>
+          <button data-filter="png">PNG</button>
+        </div>
+      </section>
+
+      <section class="grid" id="grid"></section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
