@@ -1,931 +1,619 @@
 {
-  "fileKey": "Izgzufe5syG3KcDR7fdPVX",
-  "rootNodeId": "314:8186",
-  "generatedAt": "2026-01-28T21:39:47.590656Z",
-  "count": 66,
+  "count": 41,
   "assets": [
     {
-      "id": "3531:31387",
-      "name": "BG",
+      "id": "I314:8221;236:6601",
+      "name": "Benefits card background",
       "type": "svg",
-      "filename": "bg-3531-31387.svg",
-      "path": "assets/bg-3531-31387.svg",
+      "filename": "benefits-card-background.svg",
+      "path": "assets/benefits-card-background.svg",
       "size": {
-        "width": 1450,
-        "height": 1078
+        "width": 648,
+        "height": 770
       },
-      "usage": "Background layer",
-      "sourceNodeId": "3531:31387",
+      "usage": "Main card background for benefits panel",
+      "section": "benefits",
+      "sourceNodeId": "I314:8221;236:6601",
       "status": "ready"
     },
     {
-      "id": "3531:31399",
-      "name": "BG",
+      "id": "I314:8221;236:7479",
+      "name": "Benefits card shapes",
       "type": "svg",
-      "filename": "bg-3531-31399.svg",
-      "path": "assets/bg-3531-31399.svg",
+      "filename": "benefits-card-shapes.svg",
+      "path": "assets/benefits-card-shapes.svg",
       "size": {
-        "width": 1450,
-        "height": 1078
+        "width": 691,
+        "height": 690
       },
-      "usage": "Background layer",
-      "sourceNodeId": "3531:31399",
-      "status": "ready"
-    },
-    {
-      "id": "3531:31422",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-3531-31422.svg",
-      "path": "assets/bg-3531-31422.svg",
-      "size": {
-        "width": 1450,
-        "height": 1078
-      },
-      "usage": "Background layer",
-      "sourceNodeId": "3531:31422",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6695;236:6687",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-I314-8221;236-6695;236-6687.svg",
-      "path": "assets/bg-I314-8221;236-6695;236-6687.svg",
-      "size": {
-        "width": 116,
-        "height": 116
-      },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8221;236:6695;236:6687",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6706;236:6687",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-I314-8221;236-6706;236-6687.svg",
-      "path": "assets/bg-I314-8221;236-6706;236-6687.svg",
-      "size": {
-        "width": 116,
-        "height": 116
-      },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8221;236:6706;236:6687",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6729;236:6687",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-I314-8221;236-6729;236-6687.svg",
-      "path": "assets/bg-I314-8221;236-6729;236-6687.svg",
-      "size": {
-        "width": 116,
-        "height": 116
-      },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8221;236:6729;236:6687",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6741;236:6687",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-I314-8221;236-6741;236-6687.svg",
-      "path": "assets/bg-I314-8221;236-6741;236-6687.svg",
-      "size": {
-        "width": 116,
-        "height": 116
-      },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8221;236:6741;236:6687",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6753;236:6687",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-I314-8221;236-6753;236-6687.svg",
-      "path": "assets/bg-I314-8221;236-6753;236-6687.svg",
-      "size": {
-        "width": 116,
-        "height": 116
-      },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8221;236:6753;236:6687",
+      "usage": "Decorative shapes for benefits card",
+      "section": "benefits",
+      "sourceNodeId": "I314:8221;236:7479",
       "status": "ready"
     },
     {
       "id": "I314:8228;236:7604;236:7597",
-      "name": "BG",
+      "name": "Benefits feature icon blob",
       "type": "svg",
-      "filename": "bg-I314-8228;236-7604;236-7597.svg",
-      "path": "assets/bg-I314-8228;236-7604;236-7597.svg",
+      "filename": "benefits-feature-icon-blob.svg",
+      "path": "assets/benefits-feature-icon-blob.svg",
       "size": {
         "width": 140,
         "height": 140
       },
-      "usage": "Background layer",
+      "usage": "Blob under benefits feature icon",
+      "section": "benefits",
       "sourceNodeId": "I314:8228;236:7604;236:7597",
       "status": "ready"
     },
     {
-      "id": "I314:8229;236:7604;236:7597",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-I314-8229;236-7604;236-7597.svg",
-      "path": "assets/bg-I314-8229;236-7604;236-7597.svg",
+      "id": "I314:8228;236:7604;236:7644",
+      "name": "Benefits icon orb",
+      "type": "png",
+      "filename": "benefits-icon-orb.png",
+      "path": "assets/benefits-icon-orb.png",
       "size": {
-        "width": 140,
-        "height": 140
+        "width": 67,
+        "height": 69
       },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8229;236:7604;236:7597",
+      "usage": "Orb inside benefits feature icon",
+      "section": "benefits",
+      "sourceNodeId": "I314:8228;236:7604;236:7644",
       "status": "ready"
     },
     {
-      "id": "I314:8230;236:7604;236:7597",
-      "name": "BG",
-      "type": "svg",
-      "filename": "bg-I314-8230;236-7604;236-7597.svg",
-      "path": "assets/bg-I314-8230;236-7604;236-7597.svg",
+      "id": "I314:8221;236:6578",
+      "name": "Benefits illustration slot machine",
+      "type": "png",
+      "filename": "benefits-illustration-slot-machine.png",
+      "path": "assets/benefits-illustration-slot-machine.png",
       "size": {
-        "width": 140,
-        "height": 140
+        "width": 331,
+        "height": 340
       },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8230;236:7604;236:7597",
+      "usage": "Slot machine illustration in benefits section",
+      "section": "benefits",
+      "sourceNodeId": "I314:8221;236:6578",
       "status": "ready"
     },
     {
-      "id": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6634",
-      "name": "BG",
+      "id": "I314:8221;236:6706;236:6687",
+      "name": "Benefits list icon blob 02",
       "type": "svg",
-      "filename": "bg-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6634.svg",
-      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6634.svg",
+      "filename": "benefits-list-icon-blob-02.svg",
+      "path": "assets/benefits-list-icon-blob-02.svg",
       "size": {
-        "width": 105,
-        "height": 105
+        "width": 116,
+        "height": 116
       },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6634",
+      "usage": "Blob under benefits list icon (variant 2)",
+      "section": "benefits",
+      "sourceNodeId": "I314:8221;236:6706;236:6687",
       "status": "ready"
     },
     {
-      "id": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6634",
-      "name": "BG",
+      "id": "I314:8221;236:6695;236:6687",
+      "name": "Benefits list icon blob",
       "type": "svg",
-      "filename": "bg-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6634.svg",
-      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6634.svg",
+      "filename": "benefits-list-icon-blob.svg",
+      "path": "assets/benefits-list-icon-blob.svg",
       "size": {
-        "width": 105,
-        "height": 105
+        "width": 116,
+        "height": 116
       },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6634",
+      "usage": "Blob under benefits list icon",
+      "section": "benefits",
+      "sourceNodeId": "I314:8221;236:6695;236:6687",
       "status": "ready"
     },
     {
-      "id": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6634",
-      "name": "BG",
+      "id": "I314:8222;246:6965",
+      "name": "Card blob large 02",
       "type": "svg",
-      "filename": "bg-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6634.svg",
-      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6634.svg",
+      "filename": "card-blob-large-02.svg",
+      "path": "assets/card-blob-large-02.svg",
       "size": {
-        "width": 105,
-        "height": 105
+        "width": 479,
+        "height": 478
       },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6634",
+      "usage": "Large decorative blob (variant 2) for benefits/contact cards",
+      "section": "shared",
+      "sourceNodeId": "I314:8222;246:6965",
       "status": "ready"
     },
     {
-      "id": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6634",
-      "name": "BG",
+      "id": "I314:8221;236:6604",
+      "name": "Card blob large",
       "type": "svg",
-      "filename": "bg-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6634.svg",
-      "path": "assets/bg-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6634.svg",
+      "filename": "card-blob-large.svg",
+      "path": "assets/card-blob-large.svg",
       "size": {
-        "width": 105,
-        "height": 105
+        "width": 479,
+        "height": 478
       },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6634",
+      "usage": "Large decorative blob (benefits/contact cards)",
+      "section": "shared",
+      "sourceNodeId": "I314:8221;236:6604",
       "status": "ready"
     },
     {
-      "id": "I314:8231;308:8765",
-      "name": "BG",
+      "id": "I314:8221;236:6603",
+      "name": "Card blob small",
       "type": "svg",
-      "filename": "bg-I314-8231;308-8765.svg",
-      "path": "assets/bg-I314-8231;308-8765.svg",
+      "filename": "card-blob-small.svg",
+      "path": "assets/card-blob-small.svg",
       "size": {
-        "width": 1440,
-        "height": 800
+        "width": 356,
+        "height": 359
       },
-      "usage": "Background layer",
-      "sourceNodeId": "I314:8231;308:8765",
-      "status": "ready"
-    },
-    {
-      "id": "314:8197",
-      "name": "Ellipse 2",
-      "type": "svg",
-      "filename": "ellipse-2-314-8197.svg",
-      "path": "assets/ellipse-2-314-8197.svg",
-      "size": {
-        "width": 184,
-        "height": 244
-      },
-      "usage": "Shape",
-      "sourceNodeId": "314:8197",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8205;236:7498",
-      "name": "Ellipse 2",
-      "type": "svg",
-      "filename": "ellipse-2-I314-8205;236-7498.svg",
-      "path": "assets/ellipse-2-I314-8205;236-7498.svg",
-      "size": {
-        "width": 494,
-        "height": 544
-      },
-      "usage": "Shape",
-      "sourceNodeId": "I314:8205;236:7498",
+      "usage": "Small decorative blob (benefits/contact cards)",
+      "section": "shared",
+      "sourceNodeId": "I314:8221;236:6603",
       "status": "ready"
     },
     {
       "id": "314:8207",
-      "name": "image 175",
+      "name": "City skyline small 01",
       "type": "png",
-      "filename": "image-175-314-8207.png",
-      "path": "assets/image-175-314-8207.png",
+      "filename": "city-skyline-small-01.png",
+      "path": "assets/city-skyline-small-01.png",
       "size": {
         "width": 288,
-        "height": 135
+        "height": 136
       },
-      "usage": "Raster illustration",
+      "usage": "Bottom skyline silhouette (small)",
+      "section": "page",
       "sourceNodeId": "314:8207",
       "status": "ready"
     },
     {
       "id": "314:8210",
-      "name": "image 176",
+      "name": "City skyline small 02",
       "type": "png",
-      "filename": "image-176-314-8210.png",
-      "path": "assets/image-176-314-8210.png",
+      "filename": "city-skyline-small-02.png",
+      "path": "assets/city-skyline-small-02.png",
       "size": {
         "width": 288,
-        "height": 135
+        "height": 136
       },
-      "usage": "Raster illustration",
+      "usage": "Bottom skyline silhouette (small)",
+      "section": "page",
       "sourceNodeId": "314:8210",
       "status": "ready"
     },
     {
       "id": "314:8212",
-      "name": "image 177",
+      "name": "City skyline small 03",
       "type": "png",
-      "filename": "image-177-314-8212.png",
-      "path": "assets/image-177-314-8212.png",
+      "filename": "city-skyline-small-03.png",
+      "path": "assets/city-skyline-small-03.png",
       "size": {
         "width": 288,
-        "height": 135
+        "height": 136
       },
-      "usage": "Raster illustration",
+      "usage": "Bottom skyline silhouette (small)",
+      "section": "page",
       "sourceNodeId": "314:8212",
       "status": "ready"
     },
     {
-      "id": "314:8214",
-      "name": "image 178",
-      "type": "png",
-      "filename": "image-178-314-8214.png",
-      "path": "assets/image-178-314-8214.png",
-      "size": {
-        "width": 288,
-        "height": 135
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "314:8214",
-      "status": "ready"
-    },
-    {
-      "id": "314:8209",
-      "name": "image 179",
-      "type": "png",
-      "filename": "image-179-314-8209.png",
-      "path": "assets/image-179-314-8209.png",
-      "size": {
-        "width": 288,
-        "height": 135
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "314:8209",
-      "status": "ready"
-    },
-    {
-      "id": "314:8211",
-      "name": "image 180",
-      "type": "png",
-      "filename": "image-180-314-8211.png",
-      "path": "assets/image-180-314-8211.png",
-      "size": {
-        "width": 288,
-        "height": 135
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "314:8211",
-      "status": "ready"
-    },
-    {
-      "id": "314:8213",
-      "name": "image 181",
-      "type": "png",
-      "filename": "image-181-314-8213.png",
-      "path": "assets/image-181-314-8213.png",
-      "size": {
-        "width": 288,
-        "height": 135
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "314:8213",
-      "status": "ready"
-    },
-    {
-      "id": "314:8215",
-      "name": "image 182",
-      "type": "png",
-      "filename": "image-182-314-8215.png",
-      "path": "assets/image-182-314-8215.png",
-      "size": {
-        "width": 288,
-        "height": 135
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "314:8215",
-      "status": "ready"
-    },
-    {
       "id": "314:8216",
-      "name": "image 183",
+      "name": "City skyline wide 01",
       "type": "png",
-      "filename": "image-183-314-8216.png",
-      "path": "assets/image-183-314-8216.png",
+      "filename": "city-skyline-wide-01.png",
+      "path": "assets/city-skyline-wide-01.png",
       "size": {
         "width": 383,
-        "height": 111
+        "height": 112
       },
-      "usage": "Raster illustration",
+      "usage": "Bottom skyline silhouette (wide)",
+      "section": "page",
       "sourceNodeId": "314:8216",
       "status": "ready"
     },
     {
       "id": "314:8208",
-      "name": "image 184",
+      "name": "City skyline wide 02",
       "type": "png",
-      "filename": "image-184-314-8208.png",
-      "path": "assets/image-184-314-8208.png",
+      "filename": "city-skyline-wide-02.png",
+      "path": "assets/city-skyline-wide-02.png",
       "size": {
         "width": 383,
-        "height": 111
+        "height": 112
       },
-      "usage": "Raster illustration",
+      "usage": "Bottom skyline silhouette (wide)",
+      "section": "page",
       "sourceNodeId": "314:8208",
       "status": "ready"
     },
     {
-      "id": "I314:8228;236:7604;236:7644",
-      "name": "image 185",
-      "type": "png",
-      "filename": "image-185-I314-8228;236-7604;236-7644.png",
-      "path": "assets/image-185-I314-8228;236-7604;236-7644.png",
-      "size": {
-        "width": 67,
-        "height": 69
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8228;236:7604;236:7644",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8229;236:7604;236:7644",
-      "name": "image 185",
-      "type": "png",
-      "filename": "image-185-I314-8229;236-7604;236-7644.png",
-      "path": "assets/image-185-I314-8229;236-7604;236-7644.png",
-      "size": {
-        "width": 67,
-        "height": 69
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8229;236:7604;236:7644",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8230;236:7604;236:7644",
-      "name": "image 185",
-      "type": "png",
-      "filename": "image-185-I314-8230;236-7604;236-7644.png",
-      "path": "assets/image-185-I314-8230;236-7604;236-7644.png",
-      "size": {
-        "width": 67,
-        "height": 69
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8230;236:7604;236:7644",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8222;246:7073",
-      "name": "image 195",
-      "type": "png",
-      "filename": "image-195-I314-8222;246-7073.png",
-      "path": "assets/image-195-I314-8222;246-7073.png",
-      "size": {
-        "width": 484,
-        "height": 277
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8222;246:7073",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8231;308:8730;308:8603;312:4557;345:6702",
-      "name": "image 197",
-      "type": "png",
-      "filename": "image-197-I314-8231;308-8730;308-8603;312-4557;345-6702.png",
-      "path": "assets/image-197-I314-8231;308-8730;308-8603;312-4557;345-6702.png",
-      "size": {
-        "width": 256,
-        "height": 351
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;345:6702",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8205;236:7497",
-      "name": "image 48",
-      "type": "png",
-      "filename": "image-48-I314-8205;236-7497.png",
-      "path": "assets/image-48-I314-8205;236-7497.png",
-      "size": {
-        "width": 331,
-        "height": 245
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8205;236:7497",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8205;236:7495",
-      "name": "image 49",
-      "type": "png",
-      "filename": "image-49-I314-8205;236-7495.png",
-      "path": "assets/image-49-I314-8205;236-7495.png",
-      "size": {
-        "width": 648,
-        "height": 656
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8205;236:7495",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8205;236:7496",
-      "name": "image 50",
-      "type": "png",
-      "filename": "image-50-I314-8205;236-7496.png",
-      "path": "assets/image-50-I314-8205;236-7496.png",
-      "size": {
-        "width": 594,
-        "height": 608
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8205;236:7496",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8194;94:3036",
-      "name": "image 62",
-      "type": "png",
-      "filename": "image-62-I314-8194;94-3036.png",
-      "path": "assets/image-62-I314-8194;94-3036.png",
-      "size": {
-        "width": 309,
-        "height": 333
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8194;94:3036",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8194;94:3046",
-      "name": "image 63",
-      "type": "png",
-      "filename": "image-63-I314-8194;94-3046.png",
-      "path": "assets/image-63-I314-8194;94-3046.png",
-      "size": {
-        "width": 309,
-        "height": 333
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8194;94:3046",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6578",
-      "name": "image 65",
-      "type": "png",
-      "filename": "image-65-I314-8221;236-6578.png",
-      "path": "assets/image-65-I314-8221;236-6578.png",
-      "size": {
-        "width": 331,
-        "height": 340
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8221;236:6578",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6641",
-      "name": "image 78",
-      "type": "png",
-      "filename": "image-78-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6641.png",
-      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7732;246-6645;246-6641.png",
-      "size": {
-        "width": 54,
-        "height": 54
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6641",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6641",
-      "name": "image 78",
-      "type": "png",
-      "filename": "image-78-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6641.png",
-      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7733;246-6645;246-6641.png",
-      "size": {
-        "width": 54,
-        "height": 54
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7733;246:6645;246:6641",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6641",
-      "name": "image 78",
-      "type": "png",
-      "filename": "image-78-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6641.png",
-      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7734;246-6645;246-6641.png",
-      "size": {
-        "width": 54,
-        "height": 54
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7734;246:6645;246:6641",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6641",
-      "name": "image 78",
-      "type": "png",
-      "filename": "image-78-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6641.png",
-      "path": "assets/image-78-I314-8231;308-8730;306-8294;301-7735;246-6645;246-6641.png",
-      "size": {
-        "width": 54,
-        "height": 54
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7735;246:6645;246:6641",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8232;314:5597",
-      "name": "image 78",
-      "type": "png",
-      "filename": "image-78-I314-8232;314-5597.png",
-      "path": "assets/image-78-I314-8232;314-5597.png",
-      "size": {
-        "width": 48,
-        "height": 48
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8232;314:5597",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8232;314:5598",
-      "name": "image 79",
-      "type": "png",
-      "filename": "image-79-I314-8232;314-5598.png",
-      "path": "assets/image-79-I314-8232;314-5598.png",
-      "size": {
-        "width": 48,
-        "height": 48
-      },
-      "usage": "Raster illustration",
-      "sourceNodeId": "I314:8232;314:5598",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8233;4:342;3:44",
-      "name": "Logo V3",
-      "type": "svg",
-      "filename": "logo-v3-I314-8233;4-342;3-44.svg",
-      "path": "assets/logo-v3-I314-8233;4-342;3-44.svg",
-      "size": {
-        "width": 44,
-        "height": 52
-      },
-      "usage": "Logo mark",
-      "sourceNodeId": "I314:8233;4:342;3:44",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8231;308:8730;312:4540",
-      "name": "Martin Light",
-      "type": "svg",
-      "filename": "martin-light-I314-8231;308-8730;312-4540.svg",
-      "path": "assets/martin-light-I314-8231;308-8730;312-4540.svg",
-      "size": {
-        "width": 455,
-        "height": 504
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8231;308:8730;312:4540",
-      "status": "ready"
-    },
-    {
-      "id": "314:8204",
-      "name": "Page 3",
-      "type": "svg",
-      "filename": "page-3-314-8204.svg",
-      "path": "assets/page-3-314-8204.svg",
-      "size": {
-        "width": 1440,
-        "height": 800
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "314:8204",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6601",
-      "name": "Rectangle 38",
-      "type": "svg",
-      "filename": "rectangle-38-I314-8221;236-6601.svg",
-      "path": "assets/rectangle-38-I314-8221;236-6601.svg",
-      "size": {
-        "width": 648,
-        "height": 770
-      },
-      "usage": "Shape",
-      "sourceNodeId": "I314:8221;236:6601",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8222;246:6962",
-      "name": "Rectangle 38",
-      "type": "svg",
-      "filename": "rectangle-38-I314-8222;246-6962.svg",
-      "path": "assets/rectangle-38-I314-8222;246-6962.svg",
-      "size": {
-        "width": 648,
-        "height": 770
-      },
-      "usage": "Shape",
-      "sourceNodeId": "I314:8222;246:6962",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:7479",
-      "name": "Shapes",
-      "type": "svg",
-      "filename": "shapes-I314-8221;236-7479.svg",
-      "path": "assets/shapes-I314-8221;236-7479.svg",
-      "size": {
-        "width": 691,
-        "height": 690
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8221;236:7479",
-      "status": "ready"
-    },
-    {
       "id": "I314:8222;246:6975",
-      "name": "Shapes",
+      "name": "Contact card shapes",
       "type": "svg",
-      "filename": "shapes-I314-8222;246-6975.svg",
-      "path": "assets/shapes-I314-8222;246-6975.svg",
+      "filename": "contact-card-shapes.svg",
+      "path": "assets/contact-card-shapes.svg",
       "size": {
         "width": 691,
         "height": 690
       },
-      "usage": "Vector asset",
+      "usage": "Decorative shapes for contact card",
+      "section": "contact",
       "sourceNodeId": "I314:8222;246:6975",
       "status": "ready"
     },
     {
-      "id": "I314:8231;308:8730;308:8603;312:4557;306:8341",
-      "name": "Vector 15",
-      "type": "svg",
-      "filename": "vector-15-I314-8231;308-8730;308-8603;312-4557;306-8341.svg",
-      "path": "assets/vector-15-I314-8231;308-8730;308-8603;312-4557;306-8341.svg",
+      "id": "I314:8222;246:7073",
+      "name": "Contact illustration handshake",
+      "type": "png",
+      "filename": "contact-illustration-handshake.png",
+      "path": "assets/contact-illustration-handshake.png",
       "size": {
-        "width": 346,
-        "height": 313
+        "width": 484,
+        "height": 278
       },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;306:8341",
+      "usage": "Handshake illustration in contact section",
+      "section": "contact",
+      "sourceNodeId": "I314:8222;246:7073",
       "status": "ready"
     },
     {
-      "id": "I314:8231;308:8730;308:8603;312:4557;306:8342",
-      "name": "Vector 16",
+      "id": "314:8197",
+      "name": "Hero illustration glow",
       "type": "svg",
-      "filename": "vector-16-I314-8231;308-8730;308-8603;312-4557;306-8342.svg",
-      "path": "assets/vector-16-I314-8231;308-8730;308-8603;312-4557;306-8342.svg",
+      "filename": "hero-illustration-glow.svg",
+      "path": "assets/hero-illustration-glow.svg",
       "size": {
-        "width": 360,
-        "height": 362
+        "width": 184,
+        "height": 244
       },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;306:8342",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6603",
-      "name": "Vector 17",
-      "type": "svg",
-      "filename": "vector-17-I314-8221;236-6603.svg",
-      "path": "assets/vector-17-I314-8221;236-6603.svg",
-      "size": {
-        "width": 356,
-        "height": 359
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8221;236:6603",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6606",
-      "name": "Vector 17",
-      "type": "svg",
-      "filename": "vector-17-I314-8221;236-6606.svg",
-      "path": "assets/vector-17-I314-8221;236-6606.svg",
-      "size": {
-        "width": 356,
-        "height": 359
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8221;236:6606",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8222;246:6964",
-      "name": "Vector 17",
-      "type": "svg",
-      "filename": "vector-17-I314-8222;246-6964.svg",
-      "path": "assets/vector-17-I314-8222;246-6964.svg",
-      "size": {
-        "width": 356,
-        "height": 359
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8222;246:6964",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8222;246:6967",
-      "name": "Vector 17",
-      "type": "svg",
-      "filename": "vector-17-I314-8222;246-6967.svg",
-      "path": "assets/vector-17-I314-8222;246-6967.svg",
-      "size": {
-        "width": 356,
-        "height": 359
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8222;246:6967",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6604",
-      "name": "Vector 18",
-      "type": "svg",
-      "filename": "vector-18-I314-8221;236-6604.svg",
-      "path": "assets/vector-18-I314-8221;236-6604.svg",
-      "size": {
-        "width": 479,
-        "height": 478
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8221;236:6604",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8221;236:6607",
-      "name": "Vector 18",
-      "type": "svg",
-      "filename": "vector-18-I314-8221;236-6607.svg",
-      "path": "assets/vector-18-I314-8221;236-6607.svg",
-      "size": {
-        "width": 479,
-        "height": 478
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8221;236:6607",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8222;246:6965",
-      "name": "Vector 18",
-      "type": "svg",
-      "filename": "vector-18-I314-8222;246-6965.svg",
-      "path": "assets/vector-18-I314-8222;246-6965.svg",
-      "size": {
-        "width": 479,
-        "height": 478
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8222;246:6965",
-      "status": "ready"
-    },
-    {
-      "id": "I314:8222;246:6968",
-      "name": "Vector 18",
-      "type": "svg",
-      "filename": "vector-18-I314-8222;246-6968.svg",
-      "path": "assets/vector-18-I314-8222;246-6968.svg",
-      "size": {
-        "width": 479,
-        "height": 478
-      },
-      "usage": "Vector asset",
-      "sourceNodeId": "I314:8222;246:6968",
+      "usage": "Glow behind hero illustration",
+      "section": "hero",
+      "sourceNodeId": "314:8197",
       "status": "ready"
     },
     {
       "id": "I314:8194;94:3045",
-      "name": "Vector 42",
+      "name": "Hero logo accent 01",
       "type": "svg",
-      "filename": "vector-42-I314-8194;94-3045.svg",
-      "path": "assets/vector-42-I314-8194;94-3045.svg",
+      "filename": "hero-logo-accent-01.svg",
+      "path": "assets/hero-logo-accent-01.svg",
       "size": {
         "width": 142,
         "height": 163
       },
-      "usage": "Vector asset",
+      "usage": "Accent vector in hero logo illustration",
+      "section": "hero",
       "sourceNodeId": "I314:8194;94:3045",
       "status": "ready"
     },
     {
       "id": "I314:8194;94:3044",
-      "name": "Vector 43",
+      "name": "Hero logo accent 02",
       "type": "svg",
-      "filename": "vector-43-I314-8194;94-3044.svg",
-      "path": "assets/vector-43-I314-8194;94-3044.svg",
+      "filename": "hero-logo-accent-02.svg",
+      "path": "assets/hero-logo-accent-02.svg",
       "size": {
         "width": 312,
         "height": 348
       },
-      "usage": "Vector asset",
+      "usage": "Accent vector in hero logo illustration",
+      "section": "hero",
       "sourceNodeId": "I314:8194;94:3044",
       "status": "ready"
     },
     {
       "id": "314:8195",
-      "name": "Vector 44",
+      "name": "Hero logo accent 03",
       "type": "svg",
-      "filename": "vector-44-314-8195.svg",
-      "path": "assets/vector-44-314-8195.svg",
+      "filename": "hero-logo-accent-03.svg",
+      "path": "assets/hero-logo-accent-03.svg",
       "size": {
         "width": 118,
         "height": 97
       },
-      "usage": "Vector asset",
+      "usage": "Accent vector in hero logo illustration",
+      "section": "hero",
       "sourceNodeId": "314:8195",
       "status": "ready"
     },
     {
       "id": "314:8196",
-      "name": "Vector 45",
+      "name": "Hero logo accent 04",
       "type": "svg",
-      "filename": "vector-45-314-8196.svg",
-      "path": "assets/vector-45-314-8196.svg",
+      "filename": "hero-logo-accent-04.svg",
+      "path": "assets/hero-logo-accent-04.svg",
       "size": {
         "width": 105,
         "height": 106
       },
-      "usage": "Vector asset",
+      "usage": "Accent vector in hero logo illustration",
+      "section": "hero",
       "sourceNodeId": "314:8196",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8194;94:3036",
+      "name": "Hero logo illustration base",
+      "type": "png",
+      "filename": "hero-logo-illustration-base.png",
+      "path": "assets/hero-logo-illustration-base.png",
+      "size": {
+        "width": 309,
+        "height": 333
+      },
+      "usage": "Base layer of hero 3D logo illustration",
+      "section": "hero",
+      "sourceNodeId": "I314:8194;94:3036",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8194;94:3046",
+      "name": "Hero logo illustration core",
+      "type": "png",
+      "filename": "hero-logo-illustration-core.png",
+      "path": "assets/hero-logo-illustration-core.png",
+      "size": {
+        "width": 309,
+        "height": 333
+      },
+      "usage": "Core layer of hero 3D logo illustration",
+      "section": "hero",
+      "sourceNodeId": "I314:8194;94:3046",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8232;314:5597",
+      "name": "Hero orb icon",
+      "type": "png",
+      "filename": "hero-orb-icon.png",
+      "path": "assets/hero-orb-icon.png",
+      "size": {
+        "width": 48,
+        "height": 49
+      },
+      "usage": "Small orb icon in hero area",
+      "section": "hero",
+      "sourceNodeId": "I314:8232;314:5597",
+      "status": "ready"
+    },
+    {
+      "id": "3531:31399",
+      "name": "Landing background layer A",
+      "type": "svg",
+      "filename": "landing-background-layer-a.svg",
+      "path": "assets/landing-background-layer-a.svg",
+      "size": {
+        "width": 1450,
+        "height": 1078
+      },
+      "usage": "Background gradient layer (upper area)",
+      "section": "page",
+      "sourceNodeId": "3531:31399",
+      "status": "ready"
+    },
+    {
+      "id": "3531:31422",
+      "name": "Landing background layer B",
+      "type": "svg",
+      "filename": "landing-background-layer-b.svg",
+      "path": "assets/landing-background-layer-b.svg",
+      "size": {
+        "width": 1450,
+        "height": 1078
+      },
+      "usage": "Background gradient layer (mid area)",
+      "section": "page",
+      "sourceNodeId": "3531:31422",
+      "status": "ready"
+    },
+    {
+      "id": "3531:31387",
+      "name": "Landing background overlay",
+      "type": "svg",
+      "filename": "landing-background-overlay.svg",
+      "path": "assets/landing-background-overlay.svg",
+      "size": {
+        "width": 1450,
+        "height": 1078
+      },
+      "usage": "Background overlay with bottom transparency (over solid color)",
+      "section": "page",
+      "sourceNodeId": "3531:31387",
+      "status": "ready"
+    },
+    {
+      "id": "314:8204",
+      "name": "Landing base background",
+      "type": "svg",
+      "filename": "landing-base-background.svg",
+      "path": "assets/landing-base-background.svg",
+      "size": {
+        "width": 1440,
+        "height": 800
+      },
+      "usage": "Base full-width background rectangle",
+      "section": "page",
+      "sourceNodeId": "314:8204",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8233;4:342;3:44",
+      "name": "Logo mark",
+      "type": "svg",
+      "filename": "logo-mark.svg",
+      "path": "assets/logo-mark.svg",
+      "size": {
+        "width": 44,
+        "height": 52
+      },
+      "usage": "Header logo mark",
+      "section": "nav",
+      "sourceNodeId": "I314:8233;4:342;3:44",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7497",
+      "name": "Market illustration coins",
+      "type": "png",
+      "filename": "market-illustration-coins.png",
+      "path": "assets/market-illustration-coins.png",
+      "size": {
+        "width": 332,
+        "height": 245
+      },
+      "usage": "Coins layer under market illustration",
+      "section": "market",
+      "sourceNodeId": "I314:8205;236:7497",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7496",
+      "name": "Market illustration controller glow",
+      "type": "png",
+      "filename": "market-illustration-controller-glow.png",
+      "path": "assets/market-illustration-controller-glow.png",
+      "size": {
+        "width": 594,
+        "height": 609
+      },
+      "usage": "Glow layer behind controller illustration",
+      "section": "market",
+      "sourceNodeId": "I314:8205;236:7496",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7495",
+      "name": "Market illustration controller",
+      "type": "png",
+      "filename": "market-illustration-controller.png",
+      "path": "assets/market-illustration-controller.png",
+      "size": {
+        "width": 649,
+        "height": 657
+      },
+      "usage": "Main controller illustration in market section",
+      "section": "market",
+      "sourceNodeId": "I314:8205;236:7495",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8205;236:7498",
+      "name": "Market illustration glow",
+      "type": "svg",
+      "filename": "market-illustration-glow.svg",
+      "path": "assets/market-illustration-glow.svg",
+      "size": {
+        "width": 494,
+        "height": 544
+      },
+      "usage": "Glow behind market size illustration",
+      "section": "market",
+      "sourceNodeId": "I314:8205;236:7498",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6634",
+      "name": "Team bullet icon blob",
+      "type": "svg",
+      "filename": "team-bullet-icon-blob.svg",
+      "path": "assets/team-bullet-icon-blob.svg",
+      "size": {
+        "width": 105,
+        "height": 105
+      },
+      "usage": "Blob behind team bullet icon",
+      "section": "team",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6634",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6641",
+      "name": "Team bullet icon",
+      "type": "png",
+      "filename": "team-bullet-icon.png",
+      "path": "assets/team-bullet-icon.png",
+      "size": {
+        "width": 54,
+        "height": 54
+      },
+      "usage": "Icon used in team bullet list",
+      "section": "team",
+      "sourceNodeId": "I314:8231;308:8730;306:8294;301:7732;246:6645;246:6641",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;312:4540",
+      "name": "Team portrait glow",
+      "type": "svg",
+      "filename": "team-portrait-glow.svg",
+      "path": "assets/team-portrait-glow.svg",
+      "size": {
+        "width": 455,
+        "height": 504
+      },
+      "usage": "Glow behind Martin portrait",
+      "section": "team",
+      "sourceNodeId": "I314:8231;308:8730;312:4540",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;308:8603;312:4557;345:6702",
+      "name": "Team portrait Martin",
+      "type": "png",
+      "filename": "team-portrait-martin.png",
+      "path": "assets/team-portrait-martin.png",
+      "size": {
+        "width": 256,
+        "height": 351
+      },
+      "usage": "Portrait image in team section",
+      "section": "team",
+      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;345:6702",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;308:8603;312:4557;306:8342",
+      "name": "Team portrait outline large",
+      "type": "svg",
+      "filename": "team-portrait-outline-large.svg",
+      "path": "assets/team-portrait-outline-large.svg",
+      "size": {
+        "width": 360,
+        "height": 362
+      },
+      "usage": "Large outline overlay on Martin portrait",
+      "section": "team",
+      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;306:8342",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8730;308:8603;312:4557;306:8341",
+      "name": "Team portrait outline small",
+      "type": "svg",
+      "filename": "team-portrait-outline-small.svg",
+      "path": "assets/team-portrait-outline-small.svg",
+      "size": {
+        "width": 346,
+        "height": 313
+      },
+      "usage": "Small outline overlay on Martin portrait",
+      "section": "team",
+      "sourceNodeId": "I314:8231;308:8730;308:8603;312:4557;306:8341",
+      "status": "ready"
+    },
+    {
+      "id": "I314:8231;308:8765",
+      "name": "Team section background",
+      "type": "svg",
+      "filename": "team-section-background.svg",
+      "path": "assets/team-section-background.svg",
+      "size": {
+        "width": 1440,
+        "height": 800
+      },
+      "usage": "Background for Team section",
+      "section": "team",
+      "sourceNodeId": "I314:8231;308:8765",
       "status": "ready"
     }
   ]

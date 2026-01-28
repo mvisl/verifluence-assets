@@ -18,6 +18,12 @@ This writes:
 - `data/assets.json` — registry used by the docs page
 - `data/figma-scan.json` — scan snapshot for debugging
 
+## Apply friendly names + remove duplicates
+
+```bash
+python3 scripts/rename_assets.py
+```
+
 ## Optimize PNGs (lossless)
 
 ```bash

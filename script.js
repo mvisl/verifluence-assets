@@ -34,6 +34,7 @@ function renderGrid(data) {
         <span class="badge">${asset.type.toUpperCase()}</span>
         <h3>${asset.name}</h3>
         <p>${asset.usage || '—'}</p>
+        <small>Section: ${asset.section || '—'}</small>
         <small>Size: ${sizeText}</small>
         <small>Node: ${asset.sourceNodeId || '—'}</small>
       </div>
@@ -49,7 +50,8 @@ function applyFilters() {
     const matchesQuery =
       !query ||
       asset.name.toLowerCase().includes(query) ||
-      (asset.usage || '').toLowerCase().includes(query)
+      (asset.usage || '').toLowerCase().includes(query) ||
+      (asset.section || '').toLowerCase().includes(query)
     return matchesFilter && matchesQuery
   })
 
