@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -320,6 +321,24 @@ def download_assets(file_key, token, records, output_dir):
     return downloaded
 
 
+def dedupe_by_hash(records, output_dir):
+    hash_map = {}
+    unique_records = []
+    for record in records:
+        file_path = os.path.join(output_dir, record['filename'])
+        if not os.path.exists(file_path):
+            continue
+        with open(file_path, 'rb') as f:
+            content = f.read()
+        h = hashlib.sha256(content).hexdigest()
+        if h in hash_map:
+            os.remove(file_path)
+            continue
+        hash_map[h] = record
+        unique_records.append(record)
+    return unique_records
+
+
 def fetch_node_tree(file_key, token, node_ids):
     ids_param = ','.join(node_ids)
     url = f"https://api.figma.com/v1/files/{file_key}/nodes?{urlencode({'ids': ids_param})}"
@@ -370,6 +389,7 @@ def main():
     downloaded = download_assets(args.file, args.token, records, args.output_dir)
 
     records = [record for record in records if record['id'] in downloaded]
+    records = dedupe_by_hash(records, args.output_dir)
 
     output = {
         'fileKey': args.file,
